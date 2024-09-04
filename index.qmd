@@ -1,18 +1,8 @@
 ---
-title: "castegranados.github.io"
+title: "Castellar Granados"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-install.packages("usethis")
-usethis::use_git()
-usethis::use_github()
-usethis::edit_r_environ()
-touch .nojekyll 
+toc: false
+about:
+  template: jolla
 
