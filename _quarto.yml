@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+editor: visual
 
 website:
   title: "castegranados.github.io"
@@ -15,10 +17,7 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
-project:
-  type: website
-  output-dir: docs
+  
   
 # ~ additional metadata excluded for brevity ~
 
