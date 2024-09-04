@@ -16,4 +16,9 @@ format:
     toc: true
 
 editor: visual
+project:
+  type: website
+  output-dir: docs
+  
+# ~ additional metadata excluded for brevity ~
 
