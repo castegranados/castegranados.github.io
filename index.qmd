@@ -1,6 +1,6 @@
 ---
 title: "Castellar Granados"
-image: /Users/m.castellargranadosaguilar/Downloads/FotoCV25.jpeg
+image: media/FotoCV25.jpeg
 
 toc: false
 about:
