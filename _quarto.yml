@@ -4,7 +4,7 @@ project:
 editor: visual
 
 website:
-  title: "castegranados.github.io"
+  title: "Castellar Granados"
   navbar:
     left:
       - href: index.qmd
