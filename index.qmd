@@ -10,3 +10,10 @@ about:
   image-width: 17em
 
 ---
+My name is Castellar Granados. I am a Research Fellow at the [Instituto de Iberoamérica](https://iberoame.usal.es/) of the [University of Salamanca](https://www.usal.es/) (Spain). At Salamanca, I am also a Ph.D. Candidate in Political Science. During fall 2024, I was a Visiting Fellow at [LAPOP Lab](https://www.vanderbilt.edu/lapop/) (Vanderbilt University). I hold a B.A. in International Relations from the Comillas Pontifical University of Madrid, and an M.A. in Latin American Studies from the University of Salamanca.
+
+My research focuses on political attitudes, inequality, public opinion, and the political inclusion of racialized groups. 
+
+My dissertation addresses how ethno-racial inequalities and different social mobility experiences influence political trust across Latin America. 
+
+You can reach me at [cgranados@usal.es](mailto:cgranados@usal.es)
