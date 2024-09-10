@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Castellar Granados",
-    "section": "",
-    "text": "title: “Castellar Granados” image: media/FotoCV25.jpeg\n\n\ntoc: false about: template: jolla image-shape: round image-width: 17em links: - text: LinkedIn href: https://www.linkedin.com/in/castellargranados/ - text: Google Scholar href: https://scholar.google.es/citations?user=NnvHHdYAAAAJ&hl=es - text: Email href: mailto:cgranados@usal.es"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
