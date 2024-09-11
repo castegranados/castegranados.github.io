@@ -1,4 +1,10 @@
 ---
 title: "CV"
-editor: visual
+format: html
 ---
+
+\# Curriculum Vitae
+
+Click \[here\](cv_castellar.pdf).
+
+Click \[here\](CV.pdf) to see my CV.
