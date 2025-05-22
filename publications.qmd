@@ -1,11 +1,11 @@
 ---
-title: "Publications"
+title: "Research"
 format: html
 ---
 
 **Peer-Reviewed Journal Articles**
 
-Forthcoming. ”Race, Inequality, and Political Trust in Latin America” (with Francisco Sánchez). _Latin American Politics and Society_.
+2025. ”Race, Inequality, and Political Trust in Latin America” (with Francisco Sánchez). _Latin American Politics and Society_.
 
 2024. ”Who Trusts Russia? Members of Parliament (MPs’) Support for Putin’s Government and Multilateralism” (with Francisco Sánchez). _Bulletin of Latin American Research_, Special
 Issue.
