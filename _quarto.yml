@@ -9,10 +9,9 @@ website:
       - href: index.qmd
         text: About
       - href: cv.qmd
-      text: CV
-    - href: publications.qmd
-      text: Research
-
+        text: CV
+      - href: publications.qmd
+        text: Research
 format:
   html:
     theme: minty
