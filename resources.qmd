@@ -7,4 +7,4 @@ format: html
 
 Click \[here\](cv_castellar.pdf).
 
-Click \[here\](CV.pdf) to see my CV.
+Click \[here\](CV_CastellarGranados.pdf) to see my CV.
