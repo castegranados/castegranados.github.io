@@ -3,11 +3,9 @@ title: "Gallery"
 editor: visual
 ---
 
-**Gallery**
-
 Here are some pictures taken during my fieldwork in Argentina and Uruguay.
 
-\<div class="gallery"\>
+::: { .gallery }
 
 \<img src="images/gallery/WhatsApp Image 2025-05-22 at 17.25.19.jpeg" alt="Fieldwork" width="300"\>
 
@@ -45,4 +43,4 @@ Here are some pictures taken during my fieldwork in Argentina and Uruguay.
 
 \<img src="images/gallery/WhatsApp Image 2025-05-22 at 17.26.07.jpeg" alt="Fieldwork photo" width="300"\>
 
-\</div\>
+:::
