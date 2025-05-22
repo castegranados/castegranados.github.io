@@ -17,3 +17,7 @@
   transform: scale(1.03);
 }
 
+body {
+  background-color: #f8f9fa; /* Gris claro suave */
+}
+
