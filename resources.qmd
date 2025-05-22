@@ -2,9 +2,3 @@
 title: "CV"
 format: html
 ---
-
-\# Curriculum Vitae
-
-Click \[here\](cv_castellar.pdf).
-
-Click \[here\](CV_CastellarGranados.pdf) to see my CV.

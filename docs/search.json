@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "CV",
-    "section": "",
-    "text": "# Curriculum Vitae\nClick [here](cv_castellar.pdf).\nClick [here](CV_CastellarGranados.pdf) to see my CV."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,6 +12,13 @@
     "title": "Castellar Granados",
     "section": "",
     "text": "¡Hola! I am a Research Fellow at the Instituto de Iberoamérica of the University of Salamanca (Spain). At Salamanca, I am also a Ph.D. Candidate in Political Science. During spring 2024, I was a Visiting Fellow at LAPOP Lab (Vanderbilt University).I hold a B.A. in International Relations from the Comillas Pontifical University of Madrid, and an M.A. in Latin American Studies from the University of Salamanca.\nMy research focuses on political attitudes and preferences, specifically the causes and consequences of political trust in contexts of inequality, with a regional specialization in Latin America. I use a mixed-method approach that combines multilevel analyses of both experimental and observational data with in-depth interviews and extensive fieldwork.\nMy dissertation addresses how the intersection of different structures of inequality shape political trust across Latin America.\nSome of my research has been published in Social Justice Research, Latin American Politics and Society, Bulletin of Latin American Research, and Revista de Ciencia Política, among others.\nYou can reach me at cgranados@usal.es"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "## Leading Instructor (University of Salamanca)\n- Latin American Political Systems. Fall 2022, 2023 and 2024.\nFor undergraduates at Salamanca. This course explores the political systems of Latin American countries through a comparative perspective, focusing on democratization processes, institutional design, electoral dynamics, political economy, and social movements.\n- Public Policy – University of Salamanca. Spring 2024.\nFor undergraduates at Salamanca. This course introduces students to the policy process, including agenda-setting, formulation, implementation, and evaluation.\n- Introduction to Political Science – University of Salamanca. Spring 2025.\nFor undergraduates at Salamanca. This course introduces students to some of the most important concepts and questions in Political Science. It examines theories and evidence on four of the biggest topics in comparative politics: states, regimes, political actors, and political culture."
   },
   {
     "objectID": "publications.html",
