@@ -3,5 +3,5 @@ title: "CV"
 format: html
 ---
 
-Click [here](CV.pdf) to see my CV.
+Click [here](CV_CastellarGranados.pdf) to see my CV.
 
