@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: About
-      - cv.qmd
-      - publications.qmd
+      - href: cv.qmd
+      text: CV
+    - href: publications.qmd
+      text: Research
 
 format:
   html:
@@ -17,6 +19,9 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    
+resources:
+  - publications.qmd
 
   
   
