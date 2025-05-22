@@ -12,6 +12,8 @@ website:
         text: CV
       - href: publications.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
 format:
   html:
     theme: minty
