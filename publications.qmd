@@ -5,7 +5,7 @@ format: html
 
 **Peer-Reviewed Journal Articles**
 
-Granados, C., and Sánchez, F. (2025) [“Eppur si Muove. Social Mobility, Inequality, and Political Trust in Latin America"](https://doi.org/10.1007/s11211-025-00452-6). _Social Justice Research_, First Published Online.
+Granados, C., and Sánchez, F. (2025) [“Eppur si Muove. Social Mobility, Inequality, and Political Trust in Latin America"](https://doi.org/10.1007/s11211-025-00452-6). _Social Justice Research_, 38: 167–190.
 
 Granados, C., and Sánchez, F. (2025) [“Race, Inequality, and Political Trust in Latin America”](https://doi.org/10.1017/lap.2024.29). _Latin American Politics and Society_, 67(1): 56-74.
 
@@ -17,11 +17,13 @@ Granados, C. (2023) [“Between the Prairie, the Border, and the Port: Changes a
 
 Granados, C. (2019) [“Do Parties Matter? Analysis of the Uruguayan Case”](https://doi.org/10.14422/cir.i15.y2019.004) _Comillas Journal of International Relations_ 15, 42-51 [in Spanish].
 
+**Work Submitted**
+
+Should I Stay or Should I Go?: The Behavioral Consequences of Political Trust in Contexts of Inequality: The Case of Latin America. _Journal of Politics in Latin America_ (R&R).
+
 **Work in Progress**
 
 Legislative Elites' Attitudes Toward Migration in Latin America
-
-The Behavioral Consequences of Political Trust in Contexts of Inequality: The Case of Latin America
 
 A Typolology of Political Trust
 
