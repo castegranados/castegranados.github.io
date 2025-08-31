@@ -3,16 +3,26 @@ title: "Teaching"
 editor: visual
 ---
 
-**Leading Instructor** (University of Salamanca)
+**Instructor of Record** (Universidad Alfonso X El Sabio)
 
--   **Latin American Political Systems**. Fall 2022, 2023 and 2024.
+-   **Latin American Politics**. Fall 2025.
 
-For undergraduates at Salamanca. This course explores the political systems of Latin American countries through a comparative perspective, focusing on democratization processes, institutional design, electoral dynamics, political economy, and social movements.
+    For undergraduates. This course explores the political systems, institutions, and processes of Latin America. Students examine historical and contemporary issues, including democratization, political participation, social movements, inequality, and governance challenges across the region. The course combines theoretical frameworks with case studies to understand the diversity and complexity of Latin American politics.
 
--   **Public Policy**. Spring 2024.
+-   **Anthropology**. Fall 2025.
 
-For undergraduates at Salamanca. This course introduces students to the policy process, including agenda-setting, formulation, implementation, and evaluation.
+    For undergraduates. This course introduces students to social anthropology, focusing on the study of human societies and cultural practices. Topics include social organization, power relations, identity, and ethnographic methods. Students learn to analyze social and cultural phenomena critically, applying anthropological perspectives to contemporary issues.
+
+**Teaching Assistant** (University of Salamanca)
 
 -   **Introduction to Political Science**. Spring 2025.
 
-For undergraduates at Salamanca. This course introduces students to some of the most important concepts and questions in Political Science. It examines theories and evidence on four of the biggest topics in comparative politics: states, regimes, political actors, and political culture.
+    For undergraduates. Taught by Francisco Sánchez. This course introduces students to some of the most important concepts and questions in Political Science. It examines theories and evidence on four of the biggest topics in comparative politics: states, regimes, political actors, and political culture.
+
+-   **Latin American Political Systems**. Fall 2022, 2023 and 2024.
+
+    For undergraduates. Taught by Mercedes García Montero. This course explores the political systems of Latin American countries through a comparative perspective, focusing on democratization processes, institutional design, electoral dynamics, political economy, and social movements.
+
+-   **Public Policy**. Spring 2024.
+
+    For undergraduates. Taught by José Manuel Rivas. This course introduces students to the policy process, including agenda-setting, formulation, implementation, and evaluation.
