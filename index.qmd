@@ -10,14 +10,14 @@ about:
   image-width: 17em
 
 ---
-¡Hola! I am an Assistant Professor at the Department of International Relations at the [Universidad Alfonso X](https://www.uax.com/) in Madrid, Spain. I received my Ph.D. in Political Science at the [Instituto de Iberoamérica](https://iberoame.usal.es/) of the [University of Salamanca](https://www.usal.es/) (Spain). My dissertation addresses how the intersection of different structures of inequality shape political trust across Latin America. 
+¡Hola! I am an Assistant Professor at the Department of International Relations at the [Universidad Alfonso X](https://www.uax.com/) in Madrid and a Research Associate at the [Instituto de Iberoamérica](https://iberoame.usal.es/). I received my Ph.D. in Political Science at the [University of Salamanca](https://www.usal.es/) (Spain). My dissertation addresses how the intersection of different structures of inequality shape political trust across Latin America. 
 
 My research focuses on political attitudes and preferences, specifically the causes and consequences of political trust in contexts of inequality, with a regional specialization in Latin America. I use a mixed-method approach that combines multilevel analyses of both experimental and observational data with in-depth interviews and extensive fieldwork.
 
 I hold a B.A. in International Relations from the Comillas Pontifical University of Madrid, and an M.A. in Latin American Studies from the University of Salamanca.
 
-Some of my research has been published in _Social Justice Research_, _Latin American Politics and Society_, _Bulletin of Latin American Research_, and _Revista de Ciencia Política_, among others.
+Some of my research has been published in _Latin American Politics and Society_, _Journal of Politics in Latin America_, _Social Justice Research_, _Bulletin of Latin American Research_, and _Revista de Ciencia Política_, among others.
 
-Away from the regression models, I love getting lost in bookstores in search of Latin American literature, recharging through indoor cycling, and exploring little local restaurants.
+Away from the regression models, I love getting lost in bookstores in search of Latin American literature, practicing indoor cycling, and exploring little local restaurants.
 
-You can reach me at [mgranagu@uax.es](mailto:cgranados@usal.es)
+You can reach me at [mgranagu@uax.es](mailto:mgranagu@uax.es)
