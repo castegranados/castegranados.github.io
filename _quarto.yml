@@ -23,8 +23,6 @@ format:
     toc: true
     page-layout: full
     
-resources:
-  - publications.qmd
 
   
   
